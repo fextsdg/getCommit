@@ -1,0 +1,2 @@
+# getCommit
+从github或者gitlab中获取某个文件的历史commit信息，并下载该文件的历史文件
